@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\eTRAKTOR\src\Presentation\Nop.Web\Plugins\Misc.Watermark\Description.txt
+C:\Users\USER\Documents\Visual Studio 2015\Projects\eTRAKTOR\src\Presentation\Nop.Web\Plugins\Misc.Watermark\web.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\eTRAKTOR\src\Presentation\Nop.Web\Plugins\Misc.Watermark\Views\Settings\Configure.cshtml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\eTRAKTOR\src\Presentation\Nop.Web\Plugins\Misc.Watermark\Nop.Plugin.Misc.Watermark.dll.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\eTRAKTOR\src\Presentation\Nop.Web\Plugins\Misc.Watermark\Nop.Plugin.Misc.Watermark.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\eTRAKTOR\src\Presentation\Nop.Web\Plugins\Misc.Watermark\Nop.Plugin.Misc.Watermark.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\eTRAKTOR\src\Plugins\Nop.Plugin.Misc.Watermark\obj\Debug\Nop.Plugin.Misc.Watermark.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\eTRAKTOR\src\Plugins\Nop.Plugin.Misc.Watermark\obj\Debug\Nop.Plugin.Misc.Watermark.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\eTRAKTOR\src\Plugins\Nop.Plugin.Misc.Watermark\obj\Debug\Nop.Plugin.Misc.Watermark.pdb
