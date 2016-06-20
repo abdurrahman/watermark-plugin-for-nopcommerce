@@ -1,0 +1,1 @@
+# Watermark plugin for NopCommerce
