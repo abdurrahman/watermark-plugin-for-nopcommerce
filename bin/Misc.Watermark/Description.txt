@@ -1,0 +1,8 @@
+﻿Group: Misc
+FriendlyName: Watermark Plugin
+SystemName: Misc.Watermark
+Version: 1.0
+SupportedVersions: 3.60
+Author: Abdurrahman ISIK <datnetdeveloper@gmail.com>
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.Watermark.dll
