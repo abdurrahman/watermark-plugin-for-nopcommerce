@@ -125,16 +125,6 @@ AutoTest.Net/
 # Installshield output folder
 [Ee]xpress/
 
-# DocProject is a documentation generator add-in
-DocProject/buildhelp/
-DocProject/Help/*.HxT
-DocProject/Help/*.HxC
-DocProject/Help/*.hhc
-DocProject/Help/*.hhk
-DocProject/Help/*.hhp
-DocProject/Help/Html2
-DocProject/Help/html
-
 # Click-Once directory
 publish/
 
@@ -209,29 +199,6 @@ Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
 
-# SQL Server files
-*.mdf
-*.ldf
-
-# Business Intelligence projects
-*.rdl.data
-*.bim.layout
-*.bim_*.settings
-
-# Microsoft Fakes
-FakesAssemblies/
-
-# GhostDoc plugin setting file
-*.GhostDoc.xml
-
-# Node.js Tools for Visual Studio
-.ntvs_analysis.dat
-
-# Visual Studio 6 build log
-*.plg
-
-# Visual Studio 6 workspace options file
-*.opt
-
 # ignore all files in the src/ directory
-src/
+src/bin
+src/obj
