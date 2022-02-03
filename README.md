@@ -1,4 +1,4 @@
-# Watermark plugin for NopCommerce
+# Watermark plugin for NopCommerce ⛔️ DEPRECATED
 This plugin was developed from [VJeek's watermark](https://github.com/vjeek/VJeek.Plugin.Misc.WaterMark) plugin of NopCommerce for 3.60 version.
 
 ## Description:
